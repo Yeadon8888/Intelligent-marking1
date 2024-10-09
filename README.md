@@ -4,6 +4,10 @@
 
 智能批阅助手是一个创新的前端演示项目，旨在简化和加速教师的作业批改过程。该工具允许用户上传整个作业文件夹和答案文件，设置详细的评分标准，并自动化批阅流程。
 
+![image-20241009235739398](https://yeadon-picture.oss-cn-qingdao.aliyuncs.com/img/image-20241009235739398.png)
+
+![image-20241009235746100](https://yeadon-picture.oss-cn-qingdao.aliyuncs.com/img/image-20241009235746100.png)
+
 ## 主要功能
 
 - 批量上传作业文件夹
